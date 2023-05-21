@@ -15,26 +15,18 @@
 
 
 # Introduction
-
 Welcome to our Q&A application, where knowledge-sharing thrives! Whether you have burning questions or expertise to share, this platform empowers users to ask and answer queries, upvote insightful responses, downvote incorrect or irrelevant information, and mark the most accurate answers as correct. Here, the power of collective wisdom and engagement enables us to create a valuable resource for the community. Let's embark on this collaborative journey of learning and problem-solving together!
 
 ### The User Manual
-
 The QnA application consists of the following screens:
 
-
-
 # Screens
-
-## Login Page
-
-## All Questions Page
-
-
+- Login Page
+- All Questions Page
 
 
 ## Question Details Page
-![](./question-details.jpeg)
+![](/resources/question-details.jpeg)
 
 This question details page provides a comprehensive view of the question, its answers, and allows users to interact by upvoting, downvoting, posting their own answers, deleting their answers, and marking answers as correct when applicable.
 
@@ -48,7 +40,7 @@ This question details page provides a comprehensive view of the question, its an
 - A button labeled "Post Your Answer" allows you to submit your answer.
 
 ## Answers Element
-![](./answer-actions.jpeg)
+![](/resources/answer-actions.jpeg)
 
 Below the "Your Answer" section, there is a header labeled "Answers". This section displays all the comments or answers provided by the users.
 
@@ -62,7 +54,7 @@ Below the "Your Answer" section, there is a header labeled "Answers". This secti
 
 
 ## Ask Question Page
-![](ask-question.jpeg)
+![](/resources/ask-question.jpeg)
 
 The "Ask Question" page provides you with a straightforward interface to submit your query and seek valuable insights from the community. Here's a description of the elements on this page:
 
@@ -76,7 +68,7 @@ The "Ask Question" page provides you with a straightforward interface to submit 
 
 
 ## Tags Element
-![](./tags.jpeg)
+![](/resources//tags.jpeg)
 
 The tags you have added are displayed as individual buttons below the tag input field. This allows you to easily visualize the tags you've included and manage them.
 
