@@ -28,7 +28,7 @@ The QnA application consists of the following screens:
 The login page provides a simple interface for users to log into the Q&A application. It typically includes fields for entering the username and password. There may also be an option for password recovery or creating a new account.
 
 ## All Questions Page
-![](/resources/allQuestions.png)
+![](/resources/allQuestions.jpg)
 
 The All Questions page displays a list of questions that have been asked by users. It allows users to browse through the questions and find topics they are interested in. The page typically includes the following components:
 A text input field where users can enter their own questions to ask the community.
