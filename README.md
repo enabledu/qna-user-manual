@@ -44,7 +44,7 @@ The account of the user who asked the question.
 The time when the question was asked.
 
 ## Question Details Page
-![](/resources/question-details.jpg)
+![](/resources/question-details.jpeg)
 
 This question details page provides a comprehensive view of the question, its answers, and allows users to interact by upvoting, downvoting, posting their own answers, deleting their answers, and marking answers as correct when applicable.
 
