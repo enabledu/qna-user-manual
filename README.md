@@ -21,12 +21,30 @@ Welcome to our Q&A application, where knowledge-sharing thrives! Whether you hav
 The QnA application consists of the following screens:
 
 # Screens
-- Login Page
-- All Questions Page
 
+## Login Page
+![](/resources/loginScreen.png)
+
+The login page provides a simple interface for users to log into the Q&A application. It typically includes fields for entering the username and password. There may also be an option for password recovery or creating a new account.
+
+## All Questions Page
+![](/resources/allQuestions.jpg)
+
+The All Questions page displays a list of questions that have been asked by users. It allows users to browse through the questions and find topics they are interested in. The page typically includes the following components:
+A text input field where users can enter their own questions to ask the community.
+A button labeled "Ask Question" that the user can click to submit their question.
+Each question is listed with relevant information such as:
+The title of the question, capturing the essence of the query.
+The number of votes received by the question.
+The number of answers provided for the question.
+The number of views the question has received.
+The body of the question, providing a brief overview of the query.
+The tags associated with the question, indicating the topic or category of the question.
+The account of the user who asked the question.
+The time when the question was asked.
 
 ## Question Details Page
-![](/resources/question-details.jpeg)
+![](/resources/question-details.jpg)
 
 This question details page provides a comprehensive view of the question, its answers, and allows users to interact by upvoting, downvoting, posting their own answers, deleting their answers, and marking answers as correct when applicable.
 
